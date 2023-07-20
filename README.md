@@ -6,5 +6,5 @@ This study examines the linguistic characteristics of user posts on specific men
 
 ## Dataset
 The sample dataset is available in ```reddit_mentalhealth_sample.csv``` file.  We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
-For more information, please contact <seoyunion.kim@g.skku.edu>
+// For more information, please contact <seoyunion.kim@g.skku.edu>
 
