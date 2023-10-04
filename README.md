@@ -5,6 +5,6 @@ This study examines the linguistic characteristics of user posts on specific men
 * Keywords: mental health, sentiment analysis, mental disorder, text analysis, NLP, clustering.
 
 ## Dataset
-The sample dataset is available in ```reddit_mentalhealth_sample.csv``` file.  We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form(update later).
+The sample dataset is available in ```reddit_mentalhealth_sample.csv``` file.  We are only allowed to distribute the data for the research purpose, if you want to achieve full datasets, please complete the request form([google form link](https://forms.gle/5KV2oGytJXEetnic9)https://forms.gle/5KV2oGytJXEetnic9).
 
 
